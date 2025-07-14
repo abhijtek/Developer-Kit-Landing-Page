@@ -21,5 +21,5 @@ A responsive and modern landing page built using HTML, CSS, and JavaScript. Incl
 ---
 
 ## 📁 Live Preview
-You can view the live demo (if hosted) or clone and run locally.
+[You can view the live demo (if hosted) or clone and run locally.](https://abhijtek.github.io/Developer-Kit-Landing-Page/)
 
